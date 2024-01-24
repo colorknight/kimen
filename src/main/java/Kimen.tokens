@@ -1,0 +1,11 @@
+T__9=9
+T__10=10
+T__11=11
+CharSetLiteral=4
+ConstStringLiteral=5
+Escape=6
+NUM=7
+WS=8
+','=9
+'{'=10
+'}'=11
